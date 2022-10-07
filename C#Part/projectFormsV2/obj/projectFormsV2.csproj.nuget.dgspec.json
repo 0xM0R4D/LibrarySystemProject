@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Computer Science\\My College\\SecondYear\\SecondSemester\\Data Base\\Project\\Project_lastVersion\\C#Project\\The Mainly Project\\projectFormsV2\\projectFormsV2.csproj": {}
+  },
+  "projects": {
+    "E:\\Computer Science\\My College\\SecondYear\\SecondSemester\\Data Base\\Project\\Project_lastVersion\\C#Project\\The Mainly Project\\projectFormsV2\\projectFormsV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Computer Science\\My College\\SecondYear\\SecondSemester\\Data Base\\Project\\Project_lastVersion\\C#Project\\The Mainly Project\\projectFormsV2\\projectFormsV2.csproj",
+        "projectName": "projectFormsV2",
+        "projectPath": "E:\\Computer Science\\My College\\SecondYear\\SecondSemester\\Data Base\\Project\\Project_lastVersion\\C#Project\\The Mainly Project\\projectFormsV2\\projectFormsV2.csproj",
+        "packagesPath": "C:\\Users\\Mohamed M Mourad\\.nuget\\packages\\",
+        "outputPath": "E:\\Computer Science\\My College\\SecondYear\\SecondSemester\\Data Base\\Project\\Project_lastVersion\\C#Project\\The Mainly Project\\projectFormsV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed M Mourad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

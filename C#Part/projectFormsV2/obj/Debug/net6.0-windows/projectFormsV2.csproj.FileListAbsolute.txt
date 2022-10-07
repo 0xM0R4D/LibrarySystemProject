@@ -1,0 +1,146 @@
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.exe
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.deps.json
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.runtimeconfig.json
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.pdb
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.AssemblyReference.cache
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addAuthorForm.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addBookFormV2.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addPublisherForm.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.Form1.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.adminForm.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.GenerateResource.cache
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.AssemblyInfoInputs.cache
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.AssemblyInfo.cs
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.CopyComplete
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\refint\projectFormsV2.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.pdb
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.genruntimeconfig.cache
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\ref\projectFormsV2.dll
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.logInForm.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\databaseproject.signup.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\databaseproject.browse.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.UpdateProfileForm.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.test.resources
+C:\Users\Mohamed M Mourad\source\repos\projectFormsV2\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.WriteComment.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.exe
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.deps.json
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.runtimeconfig.json
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.pdb
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.AssemblyReference.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addAuthorForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addBookFormV2.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addPublisherForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\databaseproject.browse.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.Form1.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.adminForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.logInForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\databaseproject.signup.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.test.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.UpdateProfileForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.WriteComment.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.GenerateResource.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.AssemblyInfoInputs.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.AssemblyInfo.cs
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.CoreCompileInputs.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.CopyComplete
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\refint\projectFormsV2.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.pdb
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.genruntimeconfig.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\ref\projectFormsV2.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\ForSubmission\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.BuyForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.exe
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.deps.json
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.runtimeconfig.json
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\projectFormsV2.pdb
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.AssemblyReference.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addAuthorForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addBookFormV2.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.addPublisherForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\databaseproject.browse.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.BuyForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.Form1.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.adminForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.logInForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\databaseproject.signup.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.test.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.UpdateProfileForm.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.WriteComment.resources
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.GenerateResource.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.AssemblyInfoInputs.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.AssemblyInfo.cs
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.CoreCompileInputs.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.csproj.CopyComplete
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\refint\projectFormsV2.dll
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.pdb
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\projectFormsV2.genruntimeconfig.cache
+E:\Computer Science\My College\SecondYear\SecondSemester\Data Base\Project\Project_lastVersion\C#Project\The Mainly Project\projectFormsV2\obj\Debug\net6.0-windows\ref\projectFormsV2.dll
