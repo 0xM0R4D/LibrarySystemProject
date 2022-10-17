@@ -1,6 +1,6 @@
 # LibrarySystemProject
 
-An online library system Is a website where authors can add books,and readers can find what they are searching for. The main advantage of online libraries
+An online library system Is a system where authors can add books,and readers can find what they are searching for. The main advantage of online libraries
 is its ease of use and being accessible from anywhere at any time. This helps in reducing cost and time for students,researchers and any reader.
 On the other hand,from the library perspective,It Is considered a database for all books,magazines and any type of documents the users are Interested to read.
 In addition,the online library allows as many copies of any book as the number of users who request to buy it.
