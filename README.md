@@ -17,3 +17,11 @@ An online library system can Include the following functionalities:
 • View information related to any book (Author,year, ..etc.)
 • Generate reports (for admins) to be able to check sales and make offers.
 • Categorize books based on their type.
+
+This Project Created By Team: 
+• Mohamed Mahmoud Mourad (me)
+• Abd-Allah Mohsen Hafez
+• Islam Abd-Elglil Mahmoud 
+• Mohamed Hamdy Mohamed 
+• Yassmin Yousry Imam
+• Omar Hamed Hashem 
